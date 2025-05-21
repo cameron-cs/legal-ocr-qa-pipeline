@@ -53,7 +53,7 @@ def ask(req: QARequest):
 
     result = retriever.retrieve_answer(clean_text(req.question), collection_name=collection_name)
     if not result:
-        return {"answer": None, "pages": []}
+        raise HTTPException(status_code=404, detail="Answer not found")
 
     return {
         "answer": result.answer,
