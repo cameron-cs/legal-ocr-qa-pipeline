@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What is the civil action number assigned to the case between John C. Depp II and Amber Laura Heard in the Circuit Court of Fairfax County, Virginia?",
+    "expected_answer": "Civil Action No.: CL-2019-0002911",
+    "predicted_answer": "Joshua R. Treece (VSB #79149) WOODS ROGERS PLC 10 S. Jefferson Street, Suite 1400 P.O. Box 14125 Roanoke, Virginia 24011 (540) 983-7540 Counsel to Defendant and Counterclaim-Plaintiff Amber Laura Heard VIRGINIA: IN THE CIRCUIT COURT OF FAIRFAX COUNTY JOHN C. DEPP, II, Plaintiff and Counterclaim Defendant, V. Civil Action No .: CL-2019-0002911 AMBER LAURA HEARD, Defendant and Counterclaim Plaintiff.",
+    "expected_pages": [
+      9
+    ],
+    "predicted_pages": [
+      1,
+      422,
+      297,
+      432,
+      413
+    ],
+    "match": false,
+    "page_match": false
+  },
+  {
+    "question": "Under which rule of the Supreme Court of Virginia did John C. Depp II respond to the Sixth Set of Requests for Admission?",
+    "expected_answer": "Rule 4:11 of the Rules of the Supreme Court of Virginia",
+    "predicted_answer": "PLAINTIFF AND COUNTERCLAIM DEFENDANT JOHN C. DEPP, IT'S RESPONSES AND OBJECTIONS TO DEFENDANT AND COUNTERCLAIM PLAINTIFF AMBER LAURA HEARD'S SIXTH SET OF REQUESTS FOR ADMISSION Pursuant to Rule 4:11 of the Rules of the Supreme Court of Virginia, Plaintiff and Counterclaim Defendant John C. Depp, II, by and through his undersigned counsel, hereby responds and objects to Defendant and Counterclaim Plaintiff Amber Laura Heard's Sixth Set of Requests For Admission (each, a \"Request\" and collectively, the \"Requests\"), dated January 10, 2022 and served in the above captioned action (\"Action\") as follows: GENERAL OBJECTIONS 1.",
+    "expected_pages": [
+      9
+    ],
+    "predicted_pages": [
+      419,
+      9,
+      145,
+      113,
+      413
+    ],
+    "match": false,
+    "page_match": true
+  },
+  {
+    "question": "What entities are included under the term 'Disney' in the context of the legal definitions provided?",
+    "expected_answer": "The Walt Disney Company and any of its divisions, parents, subsidiaries, related or affiliated companies or organizations.",
+    "predicted_answer": "RESPONSE: No objection. r. Disney. The phrase \"Disney\" refers to the Walt Disney Company and any of its divisions, parents, subsidiaries, related or affiliated companies or organizations. RESPONSE: No objection. S. Inventory. (i)",
+    "expected_pages": [
+      16
+    ],
+    "predicted_pages": [
+      341,
+      120,
+      285,
+      152,
+      319
+    ],
+    "match": false,
+    "page_match": false
+  },
+  {
+    "question": "What are some of the legal grounds cited by the Plaintiff in objecting to the requests about Exhibit 4?",
+    "expected_answer": "The Plaintiff cited objections including: possession by third parties, irrelevance, lack of admissibility, equal accessibility to Defendant, and lack of involvement in the document\u2019s preparation or publication.",
+    "predicted_answer": "Plaintiff further objects to this Request on the grounds that it seeks documents that are protected by the attorney-client privilege, work-product doctrine, or any other applicable privilege, immunity, or protection. Plaintiff further objects to this Request on the grounds that it is duplicative of other discovery.",
+    "expected_pages": [
+      24
+    ],
+    "predicted_pages": [
+      399,
+      400,
+      403,
+      55,
+      23
+    ],
+    "match": false,
+    "page_match": false
+  },
+  {
+    "question": "What is the title of the article admitted by the Plaintiff as Exhibit 4?",
+    "expected_answer": "\"Amber Heard's sexual violence; evidence against Johnny Depp will be kept secret in his libel claim against The Sun despite him arguing claims should be made public\"",
+    "predicted_answer": "Subject to the foregoing specific and general objections, and specifically reserving all objections to admissibility, including without limitation hearsay and relevance, Plaintiff admits that Ex. 4 - appears to be a copy of an article entitled \"Amber Heard's sexual violence; evidence against Johnny Depp will be kept secret in his libel claim against The Sun despite him arguing claims should be made public\" published by Daily Mail Online on April 8, 2020.",
+    "expected_pages": [
+      24
+    ],
+    "predicted_pages": [
+      170,
+      23,
+      25,
+      284,
+      29
+    ],
+    "match": true,
+    "page_match": false
+  },
+  {
+    "question": "What quote attributed to Mr. Waldman was referenced in the request concerning Exhibit 4?",
+    "expected_answer": "\"Amber Heard and her friends in the media use fake sexual violence allegations as both a sword and shield, depending on their needs.\"",
+    "predicted_answer": "Please admit the quote attributed to Mr. Waldman in the document attached as Ex. 4 \"They have selected some of her sexual violence hoax 'facts' as the sword, inflicting them on the public and Mr. Depp,\" is a true, genuine, and authentic quote by Mr. Waldman. RESPONSE:",
+    "expected_pages": [
+      24
+    ],
+    "predicted_pages": [
+      26,
+      38,
+      24,
+      186,
+      27
+    ],
+    "match": false,
+    "page_match": true
+  },
+  {
+    "question": "What does the phrase 'Pirates of the Caribbean Films' collectively refer to according to the discovery definitions?",
+    "expected_answer": "The films 'Pirates of the Caribbean: The Curse of the Black Pearl,' 'Dead Man's Chest,' 'At World's End,' 'On Stranger Tides,' and 'Dead Men Tell No Tales.'",
+    "predicted_answer": "The phrase \"Pirates of the Caribbean Films\" collectively refers to the films \"Pirates of the Caribbean: The Curse of the Black Pearl,\" \"Pirates of the Caribbean: Dead Man's Chest,\" \"Pirates of the Caribbean: At World's End,\" \"Pirates of the Caribbean: On Stranger Tides,\" and \"Pirates of the Caribbean: Dead Men Tell No Tales.\"",
+    "expected_pages": [
+      120
+    ],
+    "predicted_pages": [
+      393,
+      304,
+      16,
+      341,
+      152
+    ],
+    "match": true,
+    "page_match": false
+  },
+  {
+    "question": "Which movies are included under the term 'Fantastic Beasts Films' as defined in the discovery responses?",
+    "expected_answer": "'Fantastic Beasts and Where to Find Them,' 'Fantastic Beasts: The Crimes of Grindelwald,' the tentatively titled 'Fantastic Beasts and Where to Find Them 3,' and any future films such as 4 and 5 referred to in any contract.",
+    "predicted_answer": "The phrase \"Fantastic Beasts Films\" collectively refers to the films \"Fantastic Beasts and Where to Find Them,\" \"Fantastic Beasts: The Crimes of Grindelwald,\" and the tentatively titled \"Fantastic Beasts and Where to Find Them 3,\" along with any other future film in this series referred to in any contract such as Fantastic Beasts and Where to Find Them 4 and Fantastic Beasts and Where to Find Them 5.",
+    "expected_pages": [
+      120
+    ],
+    "predicted_pages": [
+      393,
+      16,
+      120,
+      152,
+      319
+    ],
+    "match": true,
+    "page_match": true
+  },
+  {
+    "question": "What actions must Tryon take upon full payment of obligations under the agreement, if requested by Scaramanga?",
+    "expected_answer": "Tryon must execute a release or other customary termination documents, including termination of its interest under any Notice of Assignment, Account Control Agreements, and the Collection Account Management Agreement, and authorize the filing of termination statements or other documents to evidence the release of security interests.",
+    "predicted_answer": "Upon the payment in full of the Obligations in accordance with the provisions hereunder, upon the request of Scaramanga, Tryon will execute a release or other customary termination documents in connection with such payment; including termination of the interest of Tryon under any Notice of Assignment, any Account Control Agreements and the Collection Account Management Agreement, and Tryon will authorize the filing of appropriate termination statements or other documents to reasonably evidence termination of the security interest granted hereunder and under any other Transaction Documents, including UCC financing statements, and Tryon agrees to execute such other documents and instruments as may be necessary or as Scaramanga or the Artist may from time to time reasonably request in connection with the release of the security interest and other liens and claims granted under the Transaction Documents.",
+    "expected_pages": [
+      223
+    ],
+    "predicted_pages": [
+      229,
+      231,
+      221,
+      222,
+      223
+    ],
+    "match": true,
+    "page_match": true
+  },
+  {
+    "question": "Why did the Plaintiff object to responding to the interrogatory concerning the Fourth and Fifth Defenses?",
+    "expected_answer": "Because the interrogatory implicates privileged communications with Mr. Adam Waldman and seeks information protected by the work-product doctrine.",
+    "predicted_answer": "Plaintiff further objects to this Interrogatory on the grounds that it causes the number of interrogatories served by Defendant to exceed the number of additional interrogatories authorized by the Court after specific negotiation between counsel for Plaintiff and Defendant, and after Defendant failed to respond to Plaintiff's Fourth Interrogatories for nearly a year on the same basis.",
+    "expected_pages": [
+      292
+    ],
+    "predicted_pages": [
+      292,
+      293,
+      294,
+      326,
+      312
+    ],
+    "match": false,
+    "page_match": true
+  }
+]

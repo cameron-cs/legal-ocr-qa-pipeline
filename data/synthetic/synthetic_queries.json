@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "question": "What is the civil action number assigned to the case between John C. Depp II and Amber Laura Heard in the Circuit Court of Fairfax County, Virginia?",
+            "answer": "Civil Action No.: CL-2019-0002911",
+            "pages": [9]
+        },
+        {
+            "question": "Under which rule of the Supreme Court of Virginia did John C. Depp II respond to the Sixth Set of Requests for Admission?",
+            "answer": "Rule 4:11 of the Rules of the Supreme Court of Virginia",
+            "pages": [9]
+        },
+        {
+            "question": "What entities are included under the term 'Disney' in the context of the legal definitions provided?",
+            "answer": "The Walt Disney Company and any of its divisions, parents, subsidiaries, related or affiliated companies or organizations.",
+            "pages": [16]
+        },
+        {
+            "question": "What are some of the legal grounds cited by the Plaintiff in objecting to the requests about Exhibit 4?",
+            "answer": "The Plaintiff cited objections including: possession by third parties, irrelevance, lack of admissibility, equal accessibility to Defendant, and lack of involvement in the document’s preparation or publication.",
+            "pages": [24]
+        },
+        {
+            "question": "What is the title of the article admitted by the Plaintiff as Exhibit 4?",
+            "answer": "\"Amber Heard's sexual violence; evidence against Johnny Depp will be kept secret in his libel claim against The Sun despite him arguing claims should be made public\"",
+            "pages": [24]
+        },
+        {
+            "question": "What quote attributed to Mr. Waldman was referenced in the request concerning Exhibit 4?",
+            "answer": "\"Amber Heard and her friends in the media use fake sexual violence allegations as both a sword and shield, depending on their needs.\"",
+            "pages": [24]
+        },
+        {
+            "question": "What does the phrase 'Pirates of the Caribbean Films' collectively refer to according to the discovery definitions?",
+            "answer": "The films 'Pirates of the Caribbean: The Curse of the Black Pearl,' 'Dead Man's Chest,' 'At World's End,' 'On Stranger Tides,' and 'Dead Men Tell No Tales.'",
+            "pages": [120]
+        },
+        {
+            "question": "Which movies are included under the term 'Fantastic Beasts Films' as defined in the discovery responses?",
+            "answer": "'Fantastic Beasts and Where to Find Them,' 'Fantastic Beasts: The Crimes of Grindelwald,' the tentatively titled 'Fantastic Beasts and Where to Find Them 3,' and any future films such as 4 and 5 referred to in any contract.",
+            "pages": [120]
+        },
+         {
+            "question": "What actions must Tryon take upon full payment of obligations under the agreement, if requested by Scaramanga?",
+            "answer": "Tryon must execute a release or other customary termination documents, including termination of its interest under any Notice of Assignment, Account Control Agreements, and the Collection Account Management Agreement, and authorize the filing of termination statements or other documents to evidence the release of security interests.",
+            "pages": [223]
+        },
+        {
+            "question": "Why did the Plaintiff object to responding to the interrogatory concerning the Fourth and Fifth Defenses?",
+            "answer": "Because the interrogatory implicates privileged communications with Mr. Adam Waldman and seeks information protected by the work-product doctrine.",
+            "pages": [292]
+        }
+    ]
+}

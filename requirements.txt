@@ -1,0 +1,13 @@
+numpy
+transformers
+sentence-transformers
+spacy
+qdrant-client
+numpy
+openai
+sentence_transformers
+fastapi
+pydantic
+pydantic_core
+uvicorn
+uvloop
