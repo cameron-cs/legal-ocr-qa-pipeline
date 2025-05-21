@@ -14,7 +14,7 @@ It supports:
 ### The structure:
 
 ```markdown
-mle-take-home
+legal-ocr-qa-pipiline
 │
 ├── app/
 │   ├── main.py              ← FastAPI app entry
